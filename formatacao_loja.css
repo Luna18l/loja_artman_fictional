@@ -1,0 +1,165 @@
+body{
+    background-color: white;
+}
+div.logotipo{
+    background-image: url('logo.png');
+    width: 900px;
+    height: 400px;
+    margin-left: 7cm;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+p{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div.contentor{
+    background-color: darkgreen;
+    display: flex;
+    width: 1465px;
+    height: 800px;
+}
+
+div.angelica{
+    background-color: rgb(135,206,250);
+    width: 493px;
+    height: 800px;
+    text-align: center;
+}
+div.perguntas{
+    background-color: rgb(135,206,250);
+    width: 480px;
+    height: 600px;
+}
+div.perguntas2{
+    background-color: rgb(216,191,216);
+    width: 480px;
+    height: 600px;
+}
+div.pergunta3{
+    background-color: rgb(240,230,140);
+    width: 390px;
+    height: 600px;
+}
+div.susana{
+    background-color: rgb(216,191,216);
+    width: 493px;
+    height: 800px;
+    text-align: center;
+}
+
+div.socrates{
+    background-color: rgb(240,230,140);
+    width: 490px;
+    height: 800px;
+    text-align: center;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+
+  #produtos_cost{
+    background-color: rgb(135,206,250);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+}
+#produtos_biju_sus{
+    background-color:rgb(216,191,216);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+}
+#produtos_biju_soc{
+    background-color: rgb(240,230,140);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+    animation: Slide_up 1.4s ease;
+}
+
+#mascote_ang{
+    background-color: rgb(135,206,250);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+}
+
+#mascote_sus{
+    background-color:rgb(216,191,216);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+}
+
+#mascote_soc{
+    background-color: rgb(240,230,140);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    font-size: 0.7cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    text-align: center;
+    display: none;
+    animation: Slide_up 1.4s ease;
+}
+
+div.imagens_soc{
+    text-align: center;
+}
+
+
+
